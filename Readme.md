@@ -27,7 +27,7 @@ This project is a product page for showcasing a product with its details, includ
 
 ## Preview
 
-![Preview](https://anika57.github.io/Product-Page/)
+[Preview](https://anika57.github.io/Product-Page/)
 
 ## License
 
